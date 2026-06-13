@@ -1,0 +1,10 @@
+cs_dust.wad
+cs_office.wad
+cstrike.wad
+eagleeyelv_pack.wad
+halflife.wad
+itsitaly.wad
+models/player/gsg9/gsg9.mdl
+models/player/guerilla/guerilla.mdl
+sandeelv2.wad
+tempdecal.wad
